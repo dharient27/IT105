@@ -1,0 +1,20 @@
+section{
+	height:35vh;
+	width: 20%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.image-1 {
+	background-image: url("image1.jpg");
+	
+}
+.image-2 {
+	background-image: url("image2.jpg");
+	
+}
+.image-3 {
+	background-image: url("image3.jpg");
+	
+}
